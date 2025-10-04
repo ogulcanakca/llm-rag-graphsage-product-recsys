@@ -1,0 +1,54 @@
+# Core Web Framework
+streamlit
+
+# Vector Database
+chromadb
+
+# NLP & Embeddings
+sentence-transformers
+transformers
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Graph Neural Networks
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+
+# Graph Processing
+networkx
+
+# Data Processing & Visualization
+numpy
+scipy
+matplotlib
+Pillow
+pandas
+
+# Database
+sqlite3; python_version >= '3.0'  # Built-in, no installation needed
+
+# File Operations & Downloads
+requests
+gdown
+
+# Utilities
+tqdm
+python-dateutil
+
+# Optional: For better performance
+faiss-cpu  # Alternative to ChromaDB for large-scale vector search
+scikit-learn  # For additional ML utilities
+
+# Development & Testing (Optional)
+pytest
+jupyter
+ipykernel
+
+# Warnings & Logging
+colorlog  # For colored logging output
