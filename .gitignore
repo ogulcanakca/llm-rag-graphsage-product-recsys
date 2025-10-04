@@ -4,3 +4,4 @@ __pycache__/
 *.sqlite3
 *.json
 data/chroma_db_product_keywords/
+.streamlit/
