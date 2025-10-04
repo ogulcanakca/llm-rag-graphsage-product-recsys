@@ -1,5 +1,0 @@
-[theme]
-base="light"
-backgroundColor="#FFFFFF"  # Tam beyaz için hex kodu
-secondaryBackgroundColor="#F0F2F6" # İkincil arka plan (örneğin sidebar) için daha açık bir gri tonu (isteğe bağlı)
-textColor="#000000" # Metin rengi (isteğe bağlı)
